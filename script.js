@@ -1,4 +1,4 @@
-gsap.registerPlugin(Physics2DPlugin, PhysicsPropsPlugin);
+// gsap.registerPlugin(Physics2DPlugin, PhysicsPropsPlugin);
 
 // DOM Elements
 const elements = {
